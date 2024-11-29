@@ -18,6 +18,10 @@ Discord: bell_coding
 
 💽**Lucidity**: https://sustaining-beanie-02b.notion.site/Lucidity-a9a7d0c647f44a7f89cbc69ae2051c84
 
+💽**Aligned**: https://bellcoding.notion.site/Aligned-112557f4be854ea99477f93b0c4f61b2
+
+💽**Berachain**: https://bellcoding.notion.site/Berachain-14df97089b9b80c1aaa1c13cec7ee343
+
 # Our Services
 
 💡**Node Setup and Deployment**
